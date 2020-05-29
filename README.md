@@ -1,8 +1,8 @@
 # Chrome-Logger
 
-## A chrome extension that logs the current page's network requests, page interactions and cookies for debugging purposes.
+### A chrome extension that logs the current page's network requests, page interactions and cookies for debugging purposes.
 
-### Contributing
+## Contributing
 
 #### UI and Design
 refer to the chrome extension docs as far as sizing, rules, etc.
