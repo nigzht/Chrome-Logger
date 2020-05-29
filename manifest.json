@@ -2,7 +2,7 @@
     "name": "Chrome Logger",
     "version": "1.0",
     "description": "monitor page activity and sequentially log it.",
-    "permissions": ["storage"],
+    "permissions": ["storage", "activeTab"],
     "background": {
         "scripts": ["background.js"],
         "persistent": false
