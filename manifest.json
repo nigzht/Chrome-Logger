@@ -1,0 +1,14 @@
+{
+    "name": "Chrome Logger",
+    "version": "1.0",
+    "description": "monitor page activity and sequentially log it.",
+    "permissions": ["storage"],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "page_action": {
+        "default_popup": "index.html"
+    },
+    "manifest_version": 2
+  }
